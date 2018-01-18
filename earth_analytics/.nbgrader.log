@@ -1,0 +1,329 @@
+[NbGraderApp | INFO] New config file saved to 'nbgrader_config.py'
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/KC/Documents/Boulder/EarthLab/earth
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=0a076666e82df33c19ddba99c597fcb5f6a0baef6f0588d9
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=0a076666e82df33c19ddba99c597fcb5f6a0baef6f0588d9
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook source/header.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: c73c9ebc-32f8-4d30-8720-04e870d26402
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel c73c9ebc-32f8-4d30-8720-04e870d26402
+[NotebookApp | WARNING] Notebook source/ps1/problem1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/source/ps1/jupyter.png (::1) 2.49ms
+[NotebookApp | INFO] Kernel started: 5109651a-217c-4544-bcdb-d51174d4d6c1
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5109651a-217c-4544-bcdb-d51174d4d6c1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] 404 GET /favicon.ico (::1) 92.99ms referer=http://localhost:8888/formgrader
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | WARNING] Notebook source/ps1/problem2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: b9fb5b98-08d2-43a1-81fe-b162fe462b59
+[NotebookApp | WARNING] Timeout waiting for kernel_info reply from b9fb5b98-08d2-43a1-81fe-b162fe462b59
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel b9fb5b98-08d2-43a1-81fe-b162fe462b59
+[NotebookApp | INFO] Saving file at /source/ps1/problem2.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/jupyter.png -> /Users/KC/Documents/Boulder/EarthLab/earth/release/./ps1/jupyter.png
+[NotebookApp | INFO] Updating/creating assignment 'ps1': {}
+[NotebookApp | INFO] Converting notebook /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/problem1.ipynb
+[NotebookApp | INFO] Writing 6738 bytes to /Users/KC/Documents/Boulder/EarthLab/earth/release/./ps1/problem1.ipynb
+[NotebookApp | INFO] Converting notebook /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/problem2.ipynb
+[NotebookApp | INFO] Writing 2524 bytes to /Users/KC/Documents/Boulder/EarthLab/earth/release/./ps1/problem2.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/ps1/problem1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/ps1/jupyter.png (::1) 1.67ms
+[NotebookApp | INFO] Kernel started: e130099e-ce28-40ef-9c28-b8cf650896c0
+[NotebookApp | WARNING] Timeout waiting for kernel_info reply from e130099e-ce28-40ef-9c28-b8cf650896c0
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel e130099e-ce28-40ef-9c28-b8cf650896c0
+[NotebookApp | INFO] Saving file at /release/ps1/problem1.ipynb
+[NotebookApp | WARNING] Notebook release/ps1/problem2.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d5cfde2d-16fb-4b14-becc-4a5154df52d7
+[NotebookApp | WARNING] Timeout waiting for kernel_info reply from d5cfde2d-16fb-4b14-becc-4a5154df52d7
+[NotebookApp | INFO] Kernel shutdown: c73c9ebc-32f8-4d30-8720-04e870d26402
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d5cfde2d-16fb-4b14-becc-4a5154df52d7
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | INFO] Kernel shutdown: e130099e-ce28-40ef-9c28-b8cf650896c0
+[NotebookApp | INFO] Kernel shutdown: b9fb5b98-08d2-43a1-81fe-b162fe462b59
+[NotebookApp | INFO] Kernel shutdown: 5109651a-217c-4544-bcdb-d51174d4d6c1
+[NotebookApp | INFO] Kernel shutdown: d5cfde2d-16fb-4b14-becc-4a5154df52d7
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/KC/Documents/Boulder/EarthLab/earth
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=472154f62de4fd7bddb1fba3dbd2b99866ed59856b03c0a1
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=472154f62de4fd7bddb1fba3dbd2b99866ed59856b03c0a1
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook source/header.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 13fe7d19-a564-458d-98ef-6f954d44f06b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 13fe7d19-a564-458d-98ef-6f954d44f06b
+[NotebookApp | INFO] Kernel shutdown: 13fe7d19-a564-458d-98ef-6f954d44f06b
+[NotebookApp | INFO] 302 GET /notebooks/release/ps1/jupyter.png (::1) 1.28ms
+[NotebookApp | INFO] Kernel started: 625d8446-0ff9-4ba9-902f-f4f6e620aba7
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 625d8446-0ff9-4ba9-902f-f4f6e620aba7
+[NotebookApp | INFO] Kernel shutdown: 625d8446-0ff9-4ba9-902f-f4f6e620aba7
+[NotebookApp | WARNING] delete /release/ps1/problem1.ipynb
+[NotebookApp | WARNING] Notebook source/header.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 37769223-c8fb-48a8-832b-40c458313c52
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 37769223-c8fb-48a8-832b-40c458313c52
+[NotebookApp | INFO] 302 GET /notebooks/source/ps1/jupyter.png (::1) 1.65ms
+[NotebookApp | INFO] Kernel started: 0b5afbcf-7da2-4ff5-b4d7-a569b3ef541f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0b5afbcf-7da2-4ff5-b4d7-a569b3ef541f
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Kernel started: a4c73c7c-f1d0-4f9d-947d-5b7fae6cdcca
+[NotebookApp | WARNING] Timeout waiting for kernel_info reply from a4c73c7c-f1d0-4f9d-947d-5b7fae6cdcca
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel a4c73c7c-f1d0-4f9d-947d-5b7fae6cdcca
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] 302 GET /notebooks/source/ps1/jupyter.png (::1) 1.29ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0b5afbcf-7da2-4ff5-b4d7-a569b3ef541f
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Removing existing assignment: /Users/KC/Documents/Boulder/EarthLab/earth/release/ps1
+[NotebookApp | INFO] Copying /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/jupyter.png -> /Users/KC/Documents/Boulder/EarthLab/earth/release/./ps1/jupyter.png
+[NotebookApp | INFO] Updating/creating assignment 'ps1': {}
+[NotebookApp | INFO] Converting notebook /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/problem1.ipynb
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbgrader/preprocessors/checkcellmetadata.py", line 11, in preprocess
+        Validator().validate_nb(nb)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: correct_squares
+    
+[NotebookApp | ERROR] Notebook failed to validate. Please update the metadata with `nbgrader update`.
+[NotebookApp | ERROR] There was an error processing assignment: /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1
+[NotebookApp | ERROR] Traceback (most recent call last):
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbgrader/converters/base.py", line 293, in convert_notebooks
+        self.convert_single_notebook(notebook_filename)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbgrader/converters/base.py", line 249, in convert_single_notebook
+        output, resources = self.exporter.from_filename(notebook_filename, resources=resources)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 174, in from_filename
+        return self.from_file(f, resources=resources, **kw)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 192, in from_file
+        return self.from_notebook_node(nbformat.read(file_stream, as_version=4), resources=resources, **kw)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/notebook.py", line 31, in from_notebook_node
+        nb_copy, resources = super(NotebookExporter, self).from_notebook_node(nb, resources, **kw)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 134, in from_notebook_node
+        nb_copy, resources = self._preprocess(nb_copy, resources)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbconvert/exporters/exporter.py", line 311, in _preprocess
+        nbc, resc = preprocessor(nbc, resc)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbconvert/preprocessors/base.py", line 47, in __call__
+        return self.preprocess(nb, resources)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/nbgrader/preprocessors/checkcellmetadata.py", line 16, in preprocess
+        raise ValidationError(msg)
+    jsonschema.exceptions.ValidationError: Notebook failed to validate. Please update the metadata with `nbgrader update`.
+    
+[NotebookApp | WARNING] Removing failed assignment: /Users/KC/Documents/Boulder/EarthLab/earth/release/ps1
+[NotebookApp | ERROR] There was an error processing assignment 'ps1' for student '.'
+[NotebookApp | ERROR] Please see the the above traceback for details on the specific errors on the above failures.
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] 302 GET /notebooks/source/ps1/jupyter.png (::1) 2.04ms
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0b5afbcf-7da2-4ff5-b4d7-a569b3ef541f
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | INFO] Copying /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/jupyter.png -> /Users/KC/Documents/Boulder/EarthLab/earth/release/./ps1/jupyter.png
+[NotebookApp | INFO] Updating/creating assignment 'ps1': {}
+[NotebookApp | INFO] Converting notebook /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/problem1.ipynb
+[NotebookApp | INFO] Writing 8667 bytes to /Users/KC/Documents/Boulder/EarthLab/earth/release/./ps1/problem1.ipynb
+[NotebookApp | INFO] Converting notebook /Users/KC/Documents/Boulder/EarthLab/earth/source/./ps1/problem2.ipynb
+[NotebookApp | INFO] Writing 2524 bytes to /Users/KC/Documents/Boulder/EarthLab/earth/release/./ps1/problem2.ipynb
+[NotebookApp | INFO] Setting destination file permissions to 644
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/ps1/problem1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/ps1/jupyter.png (::1) 1.29ms
+[NotebookApp | INFO] Kernel started: 9fa56291-19ae-456c-b436-4a8a9caacd01
+[NotebookApp | WARNING] Timeout waiting for kernel_info reply from 9fa56291-19ae-456c-b436-4a8a9caacd01
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 9fa56291-19ae-456c-b436-4a8a9caacd01
+[NotebookApp | WARNING] Notebook release/ps1/problem1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/ps1/jupyter.png (::1) 2.06ms
+[NotebookApp | INFO] Kernel restarted: 0b5afbcf-7da2-4ff5-b4d7-a569b3ef541f
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 0b5afbcf-7da2-4ff5-b4d7-a569b3ef541f
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | WARNING] zmq message arrived on closed channel
+[NotebookApp | INFO] Saving file at /source/ps1/problem2.ipynb
+[NotebookApp | INFO] Saving file at /source/ps1/problem1.ipynb
+[NotebookApp | WARNING] No such file or directory: source/ps1
+[NotebookApp | WARNING] 404 GET /api/contents/source/ps1?type=directory&_=1516305061851 (::1) 57.54ms referer=http://localhost:8888/tree/source/ps1
+[NotebookApp | ERROR] Uncaught exception in write_error
+    Traceback (most recent call last):
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1509, in _execute
+        result = method(*self.path_args, **self.path_kwargs)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 2897, in wrapper
+        return method(self, *args, **kwargs)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/tree/handlers.py", line 66, in get
+        raise web.HTTPError(404)
+    tornado.web.HTTPError: HTTP 404: Not Found
+    
+    During handling of the above exception, another exception occurred:
+    
+    Traceback (most recent call last):
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/tornado/web.py", line 1036, in send_error
+        self.write_error(status_code, **kwargs)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 414, in write_error
+        self.log.debug("Bad JSON: %r", body)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 347, in render_template
+        if origin_host == host:
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/base/handlers.py", line 343, in get_template
+        origin = origin.lower()
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 830, in get_template
+        return self._load_template(name, self.make_globals(globals))
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 804, in _load_template
+        template = self.loader.load(self, name, globals)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/loaders.py", line 125, in load
+        code = environment.compile(source, name, filename)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 591, in compile
+        self.handle_exception(exc_info, source_hint=source_hint)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 780, in handle_exception
+        reraise(exc_type, exc_value, tb)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/_compat.py", line 37, in reraise
+        raise value.with_traceback(tb)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/templates/404.html", line 3, in template
+        <p>{% trans %}You are requesting a page that does not exist!{% endtrans %}</p>
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/environment.py", line 497, in _parse
+        return Parser(self, source, name, encode_filename(filename)).parse()
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 896, in parse
+        result = nodes.Template(self.subparse(), lineno=1)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 878, in subparse
+        rv = self.parse_statement()
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 130, in parse_statement
+        return getattr(self, 'parse_' + self.stream.current.value)()
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 268, in parse_block
+        node.body = self.parse_statements(('name:endblock',), drop_needle=True)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 165, in parse_statements
+        result = self.subparse(end_tokens)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 878, in subparse
+        rv = self.parse_statement()
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 144, in parse_statement
+        self.fail_unknown_tag(token.value, token.lineno)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 97, in fail_unknown_tag
+        return self._fail_ut_eof(name, self._end_token_stack, lineno)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 90, in _fail_ut_eof
+        self.fail(' '.join(message), lineno)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/jinja2/parser.py", line 59, in fail
+        raise exc(msg, lineno, self.name, self.filename)
+    jinja2.exceptions.TemplateSyntaxError: Encountered unknown tag 'trans'. Jinja was looking for the following tags: 'endblock'. The innermost block that needs to be closed is 'block'.
+[NotebookApp | WARNING] 404 GET /tree (::1) 444.34ms referer=http://localhost:8888/tree/source/ps1
+[NotebookApp | WARNING] No such file or directory: source/ps1/problem1.ipynb
+[NotebookApp | WARNING] 404 GET /api/contents/source/ps1/problem1.ipynb?content=0&_=1516304137941 (::1) 20.34ms referer=http://localhost:8888/notebooks/source/ps1/problem1.ipynb
+[NotebookApp | INFO] Uploading file to /source/ps1/problem1.ipynb
+[NotebookApp | ERROR] Error while saving file: source/ps1/problem1.ipynb [Errno 2] No such file or directory: '/Users/KC/Documents/Boulder/EarthLab/earth/source/ps1/problem1.ipynb'
+    Traceback (most recent call last):
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/services/contents/filemanager.py", line 422, in save
+        raise web.HTTPError(400, u'Cannot create hidden directory %r' % os_path)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 293, in _save_notebook
+        with self.atomic_writing(os_path, encoding='utf-8') as f:
+      File "/Users/KC/anaconda3/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 213, in atomic_writing
+        with atomic_writing(os_path, *args, log=self.log, **kwargs) as f:
+      File "/Users/KC/anaconda3/lib/python3.6/contextlib.py", line 81, in __enter__
+        return next(self.gen)
+      File "/Users/KC/anaconda3/lib/python3.6/site-packages/notebook/services/contents/fileio.py", line 108, in atomic_writing
+        fileobj = io.open(path, 'w', encoding=encoding, **kwargs)
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/KC/Documents/Boulder/EarthLab/earth/source/ps1/problem1.ipynb'
+[NotebookApp | WARNING] Unexpected error while saving file: source/ps1/problem1.ipynb [Errno 2] No such file or directory: '/Users/KC/Documents/Boulder/EarthLab/earth/source/ps1/problem1.ipynb'
+[NotebookApp | ERROR] {
+      "Host": "localhost:8888",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|95bbb6ee|d2f63fc732a8548caaf6e863f6cd33c8|1516229095",
+      "Accept-Encoding": "gzip, deflate",
+      "Accept-Language": "en-us",
+      "Content-Type": "application/json",
+      "Origin": "http://localhost:8888",
+      "Content-Length": "6383",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/601.7.8 (KHTML, like Gecko) Version/9.1.3 Safari/537.86.7",
+      "Referer": "http://localhost:8888/notebooks/source/ps1/problem1.ipynb",
+      "Connection": "keep-alive",
+      "Cookie": "_xsrf=2|95bbb6ee|d2f63fc732a8548caaf6e863f6cd33c8|1516229095; username-localhost-8888=\"2|1:0|10:1516299873|23:username-localhost-8888|44:NWUwN2IzMTUyODI2NGQ4Mjg4MGE4MDU1NTRmY2JlNmU=|1e1136a6a2f49547666e056cc3459b286a3b1006a7296b03b9bb9bf7b4c2bf62\"; username-localhost-8889=\"2|1:0|10:1516302860|23:username-localhost-8889|44:M2Y0Y2FhMGQzMjdkNDBkMGI5M2FmM2IwMmE1YjFkMDI=|10a0ba80550ec837b6b264ef418cdf6d7381e630186cb0379af4a04b89e572f7\""
+    }
+[NotebookApp | ERROR] 500 PUT /api/contents/source/ps1/problem1.ipynb (::1) 279.88ms referer=http://localhost:8888/notebooks/source/ps1/problem1.ipynb
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/KC/Documents/Boulder/EarthLab/earth_analytics
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://localhost:8888/?token=0b38b18a09bb6234d636f0a4a65f4070be5806da5c863b02
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=0b38b18a09bb6234d636f0a4a65f4070be5806da5c863b02
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | CRITICAL] Unwritable directory, please contact your instructor: /srv/nbgrader/exchange
+[NotebookApp | WARNING] Notebook release/ps1/problem1.ipynb is not trusted
+[NotebookApp | INFO] 302 GET /notebooks/release/ps1/jupyter.png (::1) 1.67ms
+[NotebookApp | INFO] Kernel started: 5373f057-8fd8-4782-9521-e0bddb30dd5b
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 5373f057-8fd8-4782-9521-e0bddb30dd5b
+[NotebookApp | INFO] Starting buffering for 5373f057-8fd8-4782-9521-e0bddb30dd5b:30583A065C6D4EE883A190D420E73A2A
+[NotebookApp | INFO] 302 GET /tree (::1) 246.84ms
